@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672519058080",
+    "firebase_url": "https://entregable2java.firebaseio.com",
+    "project_id": "entregable2java",
+    "storage_bucket": "entregable2java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672519058080:android:d7ec784b724689fe",
+        "android_client_info": {
+          "package_name": "com.example.tomasaluch.entregable2java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672519058080-r20umeaqe70jtcp3va1545se9qa5d1pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomasaluch.entregable2java",
+            "certificate_hash": "84f0bb94a1b1dc78247c563e92f6364badf7318f"
+          }
+        },
+        {
+          "client_id": "672519058080-mrcroqdpamfeomfb829lvh1gcslcq479.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwV_wnvLZppIu3ry54t9uxNAlT7uMErc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672519058080-mrcroqdpamfeomfb829lvh1gcslcq479.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
